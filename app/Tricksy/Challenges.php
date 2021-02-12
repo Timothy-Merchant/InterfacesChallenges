@@ -8,8 +8,8 @@ class Challenges
     {
         echo "\nTricksy Challenges\n";
 
-        $this->alphabet();
-        // $this->range();
+        // $this->alphabet();
+        $this->range();
     }
 
     public function alphabet()
